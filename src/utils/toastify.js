@@ -14,4 +14,4 @@ const Toastify = (msg) => {
   });
 };
 
-export default toastify;
+export default Toastify;
